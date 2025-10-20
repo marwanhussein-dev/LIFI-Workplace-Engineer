@@ -1,0 +1,179 @@
+{
+  "sync_metadata": {
+    "sync_timestamp": "2025-10-20T12:37:25Z",
+    "source_system": "HR_API",
+    "record_count": 10
+  },
+  "employees": [
+    {
+      "asset_id": "ASSET-296d9be1-1760963845",
+      "employee_full_name": "Caroline Mills",
+      "employee_id": "296d9be1-7a78-4e93-8e88-3f9aa0237c74",
+      "work_email": "caroline.mills@example.com",
+      "contact_number": "(212) 574-2831",
+      "office_location": {
+        "city": "Tampa",
+        "state": "Arkansas",
+        "country": "United States"
+      },
+      "employee_status": "active",
+      "hire_date": "2016-01-19",
+      "department": "unassigned",
+      "days_since_hire": 3562,
+      "_phone_quality_ok": true
+    },
+    {
+      "asset_id": "ASSET-26beb386-1760963845",
+      "employee_full_name": "Ramon Hudson",
+      "employee_id": "26beb386-d993-46c6-85c3-276c6910f941",
+      "work_email": "ramon.hudson@example.com",
+      "contact_number": "(540) 919-1983",
+      "office_location": {
+        "city": "York",
+        "state": "New York",
+        "country": "United States"
+      },
+      "employee_status": "active",
+      "hire_date": "2008-06-30",
+      "department": "unassigned",
+      "days_since_hire": 6321,
+      "_phone_quality_ok": true
+    },
+    {
+      "asset_id": "ASSET-c9bf1fb2-1760963845",
+      "employee_full_name": "Bella Lewis",
+      "employee_id": "c9bf1fb2-854b-4660-a1e3-fd57546c0450",
+      "work_email": "bella.lewis@example.com",
+      "contact_number": "(871) 502-8062",
+      "office_location": {
+        "city": "Fort Worth",
+        "state": "Tennessee",
+        "country": "United States"
+      },
+      "employee_status": "active",
+      "hire_date": "2015-01-03",
+      "department": "unassigned",
+      "days_since_hire": 3943,
+      "_phone_quality_ok": true
+    },
+    {
+      "asset_id": "ASSET-a5c838b2-1760963845",
+      "employee_full_name": "Chad Mendoza",
+      "employee_id": "a5c838b2-eb18-4887-95d2-bf1300922cd5",
+      "work_email": "chad.mendoza@example.com",
+      "contact_number": "(827) 359-8787",
+      "office_location": {
+        "city": "Chicago",
+        "state": "New Hampshire",
+        "country": "United States"
+      },
+      "employee_status": "active",
+      "hire_date": "2011-05-02",
+      "department": "unassigned",
+      "days_since_hire": 5285,
+      "_phone_quality_ok": true
+    },
+    {
+      "asset_id": "ASSET-8dc2704d-1760963845",
+      "employee_full_name": "Carla Garcia",
+      "employee_id": "8dc2704d-1a49-4d6d-ab28-2894b6e509dd",
+      "work_email": "carla.garcia@example.com",
+      "contact_number": "(416) 711-7956",
+      "office_location": {
+        "city": "Ann Arbor",
+        "state": "Utah",
+        "country": "United States"
+      },
+      "employee_status": "active",
+      "hire_date": "2003-08-07",
+      "department": "unassigned",
+      "days_since_hire": 8110,
+      "_phone_quality_ok": true
+    },
+    {
+      "asset_id": "ASSET-932929a4-1760963845",
+      "employee_full_name": "Joan Simmons",
+      "employee_id": "932929a4-aa93-47c0-86b3-576d4c39fece",
+      "work_email": "joan.simmons@example.com",
+      "contact_number": "(906) 591-4718",
+      "office_location": {
+        "city": "Shelby",
+        "state": "West Virginia",
+        "country": "United States"
+      },
+      "employee_status": "active",
+      "hire_date": "2016-01-10",
+      "department": "unassigned",
+      "days_since_hire": 3571,
+      "_phone_quality_ok": true
+    },
+    {
+      "asset_id": "ASSET-10adfa5e-1760963845",
+      "employee_full_name": "Carrie Hernandez",
+      "employee_id": "10adfa5e-3a11-4b11-b90a-f24dd090d010",
+      "work_email": "carrie.hernandez@example.com",
+      "contact_number": "(927) 512-7755",
+      "office_location": {
+        "city": "Westminster",
+        "state": "Nevada",
+        "country": "United States"
+      },
+      "employee_status": "active",
+      "hire_date": "2018-08-30",
+      "department": "unassigned",
+      "days_since_hire": 2608,
+      "_phone_quality_ok": true
+    },
+    {
+      "asset_id": "ASSET-da8ddc95-1760963845",
+      "employee_full_name": "Andre Barnett",
+      "employee_id": "da8ddc95-4195-43ab-b3bf-9a25b86e6562",
+      "work_email": "andre.barnett@example.com",
+      "contact_number": "(266) 548-5024",
+      "office_location": {
+        "city": "Ventura",
+        "state": "Massachusetts",
+        "country": "United States"
+      },
+      "employee_status": "active",
+      "hire_date": "2017-05-20",
+      "department": "unassigned",
+      "days_since_hire": 3075,
+      "_phone_quality_ok": true
+    },
+    {
+      "asset_id": "ASSET-45e25c4f-1760963845",
+      "employee_full_name": "Mason Lopez",
+      "employee_id": "45e25c4f-e7d4-4aab-9fe8-c7fcd6250f39",
+      "work_email": "mason.lopez@example.com",
+      "contact_number": "(945) 851-6654",
+      "office_location": {
+        "city": "Denver",
+        "state": "Mississippi",
+        "country": "United States"
+      },
+      "employee_status": "active",
+      "hire_date": "2015-09-09",
+      "department": "unassigned",
+      "days_since_hire": 3694,
+      "_phone_quality_ok": true
+    },
+    {
+      "asset_id": "ASSET-f0a7f37b-1760963845",
+      "employee_full_name": "Anna Payne",
+      "employee_id": "f0a7f37b-2c94-4432-b8ba-0263af13682e",
+      "work_email": "anna.payne@example.com",
+      "contact_number": "(395) 985-4541",
+      "office_location": {
+        "city": "Oxnard",
+        "state": "Rhode Island",
+        "country": "United States"
+      },
+      "employee_status": "active",
+      "hire_date": "2016-04-07",
+      "department": "unassigned",
+      "days_since_hire": 3483,
+      "_phone_quality_ok": true
+    }
+  ]
+}
