@@ -1,15 +1,15 @@
 HR → Assets Sync — Docs
 
 # Big-picture logic & structure (why it’s organized like this)
-# 	•	Fetch first (http_get_json) → because nothing else makes sense without the data.
-# 	•	Optionally filter (bonus) → faster & cleaner to cut down the dataset before heavy work.
-# 	•	One “run timestamp” → consistent asset_id format across all records.
-# 	•	Transform + Validate in a loop → apply mapping and checks per record; don’t let one bad record kill the run.
-# 	•	Collect successes & skips → needed for output JSON and for the final human summary.
-# 	•	Build final document → exactly the target schema (sync_metadata + employees).
-# 	•	Optional compare (bonus) → extra info without affecting the core deliverable.
-# 	•	Write JSON (indent 2/4) → satisfies output formatting requirement.
-# 	•	Summaries → clear info for testers about what happened.
+# Fetch first (http_get_json) → because nothing else makes sense without the data.
+# Optionally filter (bonus) → faster & cleaner to cut down the dataset before heavy work.
+# One “run timestamp” → consistent asset_id format across all records.
+# Transform + Validate in a loop → apply mapping and checks per record; don’t let one bad record kill the run.
+# collect successes & skips → needed for output JSON and for the final human summary.
+# Build final document → exactly the target schema (sync_metadata + employees).
+# Optional compare (bonus) → extra info without affecting the core deliverable.
+# Write JSON (indent 2/4) → satisfies output formatting requirement.
+# Summaries → clear info for testers about what happened.
 
 # This is the classic ETL flow: Extract → Transform/Validate → Load → Report.
 
